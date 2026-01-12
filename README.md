@@ -41,9 +41,6 @@ O projeto conta com diversas consultas pré-configuradas para gerar relatórios 
 
 • Unicidade: Um animal não pode ser adotado por duas pessoas diferentes (vínculo único na tabela de adoção).
 
-• Segurança: O CPF e o E-mail dos adotantes são campos únicos, evitando duplicidade de cadastros.
-
-• Integridade: A remoção de registros é protegida por chaves estrangeiras para evitar dados órfãos.
 
 
 • Segurança: O CPF e o E-mail dos adotantes são campos únicos, evitando duplicidade de cadastros.
